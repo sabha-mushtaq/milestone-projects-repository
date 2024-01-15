@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-GURU</title>
+    <style>
+        body{background-image: url(curve-arrow.png),url(orange-arrow.png),url(green-arrow.png),url(circle.png);background-repeat: no-repeat;background-size: 150px 150px,40px 40px,40px 40px,40px 40px;background-position: 40% 55%, 60% 20%, 60% 60%,90% 65%;}
+        /* styling nav */
+.A{width: auto;height: 100px;display: flex;justify-content: space-around;padding-top: 20px;}
+.a{width: 200px;height: 70px;background-image: url(logo.png) ;background-size: 40px 40px;background-repeat: no-repeat;}
+.b{width: 500px;height: 70px;}
+.c{width: 200px;height: 70px;}
+li{list-style: none;padding: 10px;display: inline;color: rgb(169, 165, 165);}
+#a{margin: 10px;margin-left: 50px;}
+button{height: 60px;width: 150px;border: solid 1px;font-size: large;color: black;}
+.menu-icon{display: none;height: 50px; width: 50px;}
+.user-profile{display: none;}
+/* responsive nav-bar */
+@media screen and (max-width:500px){
+    
+    .b{display: none;}
+    .c{display: none;}
+    .menu-icon{display: block;margin: 0%;}
+    .user-profile{display: block;height: 50px;width: 50px;}
+}
+/* styling main-section */
+.r{height: auto;width: auto;display: flex;justify-content: space-around;flex-wrap: wrap;margin-bottom: 70px;}
+.j{height: 350px;width: 500px;display: flex;justify-content: space-around; flex-direction: column;}
+.k{height: 350px;width: 500px;background-image: url(main-image.png),url(main-image-pattern.png),url(main-image-bg.png);background-repeat: no-repeat;background-position: center;background-size:contain;}
+#TITLE{height: 100px;width: 300px;}
+#QUOTE{height: 100px;width: 300PX;border-left: solid rgb(191, 186, 186);padding: 8px;margin-bottom: 30px;}
+#but{height: 100px;width: 350px;display: flex;justify-content: space-around; }
+h4{color: rgb(191, 186, 186);}
+.but1,.but2{height: 60;width: 150px;border: solid;font-size: large;color: black;}
+.but3,.but4{height: 60;width: 150px;border: solid;font-size: large;color: black;display: none;}
+#but0{height: 100px;width: 350px;display: flex;justify-content: space-around; }
+li:hover{color: rgb(251, 98, 42);}
+.but1:hover{background-color: rgb(241, 115, 69);}
+.but2:hover{background-color: rgb(241, 115, 69);}
+button:hover{background-color: rgb(241, 115, 69);}
+/* responsive main-section */
+@media screen and (max-width:500px) {
+   .j{padding-left: 30px;}
+   body{background-image: url(curve-arrow.png),url(orange-arrow.png),url(green-arrow.png),url(circle.png);background-repeat: no-repeat;background-size: 100px 100px,40px 40px,40px 40px,40px 40px;background-position: 80% 20%, 20% 20%, 5% 40%,90% 45%;}
+   .but1,.but2{display: none;}
+   .but3,.but4{display: block;}
+   #but0{padding-left: 40px;}
+   .but3:hover{background-color: rgb(241, 115, 69);}
+   .but4:hover{background-color: rgb(241, 115, 69);}
+}
+/* styling footer-section */
+.footer-section{height: 250px;width: auto;display: flex;justify-content: space-evenly;background-color: rgb(20, 6, 173);flex-wrap: wrap;}
+.p,.o,.i,.u{height: 250px;width: 250px;}
+h3{color: rgb(180, 173, 173);}
+h2{color: antiquewhite;}
+#vector-3,#vector-2,#vector-1{height: 60px;width: 60px;margin: 30px;border-radius: 5px;}
+#vector-3{background-image: url(vector3.png);background-repeat: no-repeat;background-size: 15px 15px;background-position: center;background-color: aqua;}
+#vector-2{background-image: url(vector2.png);background-repeat: no-repeat;background-size: 15px 15px;background-position: center;background-color: rgb(233, 90, 38);}
+#vector-1{background-image: url(vector1.png);background-repeat: no-repeat;background-size: 15px 15px;background-position: center;background-color: rgb(74, 13, 186);}
+@media screen and (max-width:500px){
+    .footer-section{height: auto;}
+}
+    </style>
+</head>
+<body>
+    <!-- nav-bar -->
+   <nav>
+    <div class="A">
+        <img src="menu-icon.png" alt="img-menu" class="menu-icon">
+
+<div class="a">
+    <h1 id="a">E-GURU</h1></div>
+<div class="b">
+    <ul>
+        <li>Home</li>
+        <li>About us</li>
+        <li>Features</li>
+        <li>How does it works</li>
+    </ul>
+</div>
+<div class="c"><button>sign up</button></div>
+<img src="user-profile.png" alt="img" class="user-profile">
+    
+</div>
+   </nav> 
+   
+   <!-- main-section -->
+   <main>
+    <div class="r">
+<div class="j">
+<div id="TAGLINE">
+    <h1>STUDY FROM <br>HOME WITH EXPERT.</h1>
+</div>
+<div id="QUOTE">
+    <h4>A learning system based on formalised teaching with the help of resources.</h2>
+</div>
+<div id="but">
+<button class="but1">Get Started</button>
+<button class="but2">Learn more</button>
+</div>
+</div>
+<div class="k"></div>
+   
+   </div>
+  
+    
+</main>
+    <div id="but0">
+        <button class="but3">Get Started</button>
+        <button class="but4">Learn more</button>
+        </div>
+
+<footer>
+    <div class="footer-section">
+        <div class="p">
+            <h2>WHY WE ARE THE BEST</h2>
+            <h3>a learning system based on formalised teaching with help of ....</h3>
+        </div>
+        <div class="o">
+            <div id="vector-3"></div>
+            <h2>EXPERT TEACHER</h2>
+  <h4>a learning system based on formalised teaching with help of ....</h4>
+    </div>
+        <div class="i">
+            <div id="vector-2"></div>
+            <h2>ONLINE COURCES</h2>
+            <h4>a learning system based on formalised teaching with help of ....</h4>  
+    </div>
+        <div class="u">
+            <div id="vector-1"></div>
+            <h2>24/7 SUPPORT</h2>
+            <h4>a learning system based on formalised teaching with help of ....</h4>
+    </div>
+    </div>
+</footer>
+
+</body>
+</html>
