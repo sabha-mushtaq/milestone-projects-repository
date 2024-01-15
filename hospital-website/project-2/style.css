@@ -1,0 +1,88 @@
+/* styling nav-bar */
+.home-page{height: 850px;width: auto;
+background-image: url(background.png);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+
+}
+nav{height: 70px;
+width: auto;
+}
+.nav-bar{display: flex;justify-content: space-evenly;}
+#a{width: 200px;height: 50px;}
+#b{width: 500px;height: 60px;margin-top: 10px;}
+#c{width: 300px;height: 63px;margin-top: 20px;}
+h1{color:white;padding: 5px;}
+#a2{list-style: none;display: inline;padding: 30px;color: white;}
+button{width: 200px;height: 50px;color: white;border: none;background-image: url(arrow.svg);background-size: 30px 30px;background-position: 93% 50%;background-repeat: no-repeat;background-color: rgb(88, 194, 236);}
+/* styling section-1 */
+.section-A{display: flex;height: 700px;width: auto;justify-content: space-around;padding-top: 30px;}
+#PART-ONE-SECTION-A{height: 450px;width: 450px;}
+#PART-TWO-SECTION-B{height: 600px;width: 370px;background-color: white;border-radius: 10px;}
+#tagline{font-size: 60px;}
+p{font-size: 25px;color: aliceblue;margin-bottom: 20px;}
+#but1{height: 200px;height: 60px;border-radius: 45px;background-color: skyblue;background-image: none;color: aliceblue;}
+#but2{height: 200px;height: 60px;border-radius: 45px;display: inline;background-image: none;color: aliceblue;border: 1px white;}
+#crown{font-size: 20px;text-align: center;color: black;}
+input,label,select{margin: 20px;}
+input,select{height: 40px;width: 300px;}
+#Book{margin: 20px;background-image: none;border-radius: 5px;margin-left: 70px;}
+/* styling section -two */
+#sec-2{height: 300px;width: 1400px;text-align: center;display: flex;justify-content: space-around;}
+#i{color: black;}
+#q{color: #545151;}
+#sub-sec-2{height: 250px;width: 530px;}
+#sec-3{height: 400px;width: 1400px;display: flex;justify-content: space-around;}
+#sub-sec-a,#sub-sec-b,#sub-sec-c{height: 320px;width: 300px;background-color: white;border-radius: 10px;border: solid 2px skyblue;}
+#sub-sub-sec-a{height: 100px;width: 100%;background-color: skyblue;border-radius: 5px;}
+#sub-sub-sec-b{height: 220px;width: 100%;border: 5px;}
+#e{display: block;padding: 10px;color: #6e6969;list-style: circle;display: list-item;}
+#prof{height: 70px ; width: 70px;border-radius: 50%;display: inline-block;margin: 10px;background-image: url(contact.jpeg);background-size: contain;background-position: center;background-repeat: no-repeat;background-color: aliceblue;}
+h2{margin-top: -60px;margin-left: 100px;color: aliceblue;}
+#a3{color: aqua;list-style: none;}
+.sec-4{height: 350px;width: 1400px;display: flex;justify-content: space-around;}
+#sub-sec-4-a{height:260px ;width: 300px;border: solid gainsboro;background-color: aliceblue;}
+#star{height: 25px;width: 25px;padding: 7px;}
+#view{color: rgb(106, 98, 98);font-size: 20px;padding: 10px;}
+#comment{height: 70px;width: 70px;margin: 5px;border-radius: 50%;background-image: url(https://miro.medium.com/v2/resize:fit:785/0*Ggt-XwliwAO6QURi.jpg);background-position: center;background-size: cover;background-repeat: no-repeat;}
+#comment-2{height: 70px;width: 70px;margin: 5px;border-radius: 50%;background-image: url(https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg);background-position: center;background-size: cover;background-repeat: no-repeat;}
+
+#comment-1{height: 70px;width: 70px;margin: 5px;border-radius: 50%;background-image: url(https://www.shutterstock.com/image-photo/headshot-portrait-smiling-african-american-260nw-1667439898.jpg);background-position: center;background-size: cover;background-repeat: no-repeat;}
+.sec-6{height: 800px;width: auto;display: flex;justify-content: space-around;flex-wrap: wrap;margin-left: 50px;margin-right: 50px;}
+#sec-6-a{width: 400px;height: 250px;padding: 20px;}
+#textarrow{height: 30px;width: 30px;margin: 20px;display: inline-block;}
+h3{display: inline;margin-left: 10px;margin-right: 10px;}
+#com{color: rgb(89, 82, 82);font-size: 18px;padding: 10px;margin-left: 10px;margin-right: 10px;}
+/* styling sec-8 */
+.packages{height: 1000px;width: 1400px;background-color: white;display: flex;justify-content: center;}
+#pack-a{height: 800px;width: 350px;background-color: white;margin-top: 100px;border-radius: 10px;border: solid skyblue;}
+#pack-b{height: 900px;width: 350px;background-color: rgb(45, 43, 55);border-radius: 10px;border: solid skyblue;}
+#pack-c{height: 800px;width: 350px;background-color: white;margin-top: 100px;border-radius: 10px;border: solid skyblue;}
+#n{text-align: center;color: #000;}
+#m{margin-left: 50px;margin-right: 60px;color: #878181;}
+#u{height: 400px;width: 100px;display: flex;flex-direction: column;justify-content: space-around;}
+#o{height: 450px;width: 100%;display: flex;}
+#x{height:400px ;width: 250px;}
+#validity{height: 40px;width: 40px;border-radius: 50%;padding: 10px;margin-left: 60px;background-color: rgb(91, 206, 91);background-image: url(tick.svg);background-position: center;background-repeat: no-repeat;background-size: 30px 30px;}
+#off{padding: 10px 0px 55px 0px;list-style: none;}
+#k{text-align: center;color: rgb(80, 195, 241);}
+#l{margin-left: 20%;background-image: none;}
+.go{color: white;text-align: center;}
+.app{color: white;margin-left: 50px;margin-right: 60px;}
+.of{color: white;}
+/* styling sec-9 */
+.fot-9{height: 250px;width: 1400px;background-color:rgb(45, 43, 55) ;display: flex;justify-content: space-evenly;}
+#sec-9-a{height: 200px;width: 500px;margin-top: 30px;}
+#sec-9-b{height: 100px;width: 500px;margin-top: 100px;display: flex;justify-content: center;}
+#fot,#fot1{color: white;}
+#fot1{font-size: 20px;}
+#email-cust{height: 70px;width: 400px;display: inline;}
+#subscribe{height: 70px;width: 150px;border-radius: 10px;color: aliceblue;background-image: none;margin-top: 25px;margin-right: 30px;display: inline;}
+.sec-10{height: 250px;width: 1400px;display: flex;justify-content: space-around;}
+#sec-10-a{height: 230px;width: 250px;}
+#ja{color: #000;}
+#ja1{color: #807979;font-size: 15px;}
+#instagram,#twitter,#facebook{height: 40px;width: 40px;border-radius: 50px;padding: 5px;}
+#c-info{color: #757070;padding: 5px;list-style: none;}
+footer{text-align: center;color: #4b4646;height: 50px;width: 1400px;}
+#foott{font-size: 20px;color: #757070;}
