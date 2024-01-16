@@ -14,6 +14,7 @@ This repository contains the milestone project for web development, showcasing f
 2. **Hospital**
    - [http://127.0.0.1:5500/hospital-website/project-2/index.html](#)
    - Description: A replica of the Hospital website featuring [Welcome to HealthHub, your trusted healthcare destination! Our mobile-responsive website, built with HTML and Tailwind CSS, provides a seamless experience on any device. Explore our comprehensive healthcare services, find specialist doctors, and schedule appointments effortlessly. At HealthHub, we prioritize your well-being with a user-friendly interface and secure access to essential medical information.].
+    <img width="1421" alt="SCR-20240116-mwzc" src="https://github.com/sabha-mushtaq/milestone-projects-repository/assets/138353007/7f2a675e-78be-4ebf-9662-e85a9993c33a">
 
 3. **[Third Website]**
    - [Link to Third Website Replica](#)
@@ -36,7 +37,7 @@ This repository contains the milestone project for web development, showcasing f
 
 
 ## Screenshots
-
+<img width="1421" alt="SCR-20240116-mwzc" src="https://github.com/sabha-mushtaq/milestone-projects-repository/assets/138353007/7f2a675e-78be-4ebf-9662-e85a9993c33a">
 
 
 
