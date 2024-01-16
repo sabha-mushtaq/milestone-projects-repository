@@ -10,7 +10,7 @@ This repository contains the milestone project for web development, showcasing f
    - [http://127.0.0.1:5500/project%201/project-1/E-GURU.html](#)
    - Description: A replica of the E-Guru website showcasing [ Welcome to e-Guru, your go-to platform for personalized home tutoring! This mobile-responsive website, crafted with HTML and Tailwind CSS, ensures a seamless experience on any device. Easily connect with expert tutors, explore various subjects, and schedule convenient sessions. Join the e-Guru community and boost academic success!].
    <img width="1433" alt="SCR-20240116-mwed" src="https://github.com/sabha-mushtaq/milestone-projects-repository/assets/138353007/d78d60da-1464-4008-b796-80bef0ce314e">
-<img width="1433" alt="SCR-20240116-mwed" src="https://github.com/sabha-mushtaq/milestone-projects-repository/assets/138353007/d78d60da-1464-4008-b796-80bef0ce314e">
+<img width="496" alt="SCR-20240116-mwrd" src="https://github.com/sabha-mushtaq/milestone-projects-repository/assets/138353007/d8957e6f-6afa-4092-9d92-ddc17bfc5b90">
   
 
 2. **Hospital**
