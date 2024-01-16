@@ -33,15 +33,6 @@ This repository contains the milestone project for web development, showcasing f
 - HTML
 - CSS
 - Tailwind CSS
-
-
-
-## Screenshots
-<img width="1421" alt="SCR-20240116-mwzc" src="https://github.com/sabha-mushtaq/milestone-projects-repository/assets/138353007/7f2a675e-78be-4ebf-9662-e85a9993c33a">
-
-
-
-
 ## Author
 
 [sabha mushtaq]
