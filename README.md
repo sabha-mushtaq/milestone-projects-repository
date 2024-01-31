@@ -18,9 +18,10 @@ This repository contains the milestone project for web development, showcasing f
    - Description: A replica of the Hospital website featuring [Welcome to HealthHub, your trusted healthcare destination! Our mobile-responsive website, built with HTML and Tailwind CSS, provides a seamless experience on any device. Explore our comprehensive healthcare services, find specialist doctors, and schedule appointments effortlessly. At HealthHub, we prioritize your well-being with a user-friendly interface and secure access to essential medical information.].
     <img width="1421" alt="SCR-20240116-mwzc" src="https://github.com/sabha-mushtaq/milestone-projects-repository/assets/138353007/7f2a675e-78be-4ebf-9662-e85a9993c33a">
 
-3. **[Third Website]**
-   - [Link to Third Website Replica](#)
-   - Description: A replica of the [Third Website] highlighting [brief description].
+3. **[Bike Landing page]**
+   - [http://127.0.0.1:5500/bike/index.html](#)
+   - The Bike Landing Page is a sleek and modern website designed to showcase the latest models of bicycles. With a clean and intuitive user interface, this website provides visitors with an immersive experience, highlighting the features and specifications of various bike models.
+   - 
 
 4. **[Fourth Website]**
    - [Link to Fourth Website Replica](#)
