@@ -21,7 +21,7 @@ This repository contains the milestone project for web development, showcasing f
 3. **[Bike Landing page]**
    - [http://127.0.0.1:5500/bike/index.html](#)
    - The Bike Landing Page is a sleek and modern website designed to showcase the latest models of bicycles. With a clean and intuitive user interface, this website provides visitors with an immersive experience, highlighting the features and specifications of various bike models.
-   - 
+   - ![SCR-20240131-ofpd](https://github.com/sabha-mushtaq/milestone-projects-repository/assets/138353007/780dfcd8-99f9-45d4-99e6-e80868a3618b)
 
 4. **[Fourth Website]**
    - [Link to Fourth Website Replica](#)
