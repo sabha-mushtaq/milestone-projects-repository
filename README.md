@@ -26,12 +26,12 @@ This repository contains the milestone project for web development, showcasing f
 4. **[NFT LANDING PAGE]**
    - [http://127.0.0.1:5500/src/index.html](#)
    - Description: The NFT Landing Page Replica is a visually captivating website that showcases the world of non-fungible tokens (NFTs) through stunning color gradients and modern design elements. Utilizing the power of Tailwind CSS, this replica features a seamless blend of aesthetics and functionality, offering an immersive experience for visitors interested in the NFT space.
-   - 
+   - ![SCR-20240330-mbbv](https://github.com/sabha-mushtaq/milestone-projects-repository/assets/138353007/063b0c1d-e0ff-49a6-810d-f10776ee53f7)
 
 5. **[Fifth Website]**
    - [Link to Fifth Website Replica](#)
    - Description: A replica of the [Fifth Website] focusing on [brief description].
-   - ![SCR-20240330-mbbv](https://github.com/sabha-mushtaq/milestone-projects-repository/assets/138353007/063b0c1d-e0ff-49a6-810d-f10776ee53f7)
+   
 
 ## Technologies Used
 
