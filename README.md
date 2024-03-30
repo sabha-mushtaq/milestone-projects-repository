@@ -31,6 +31,7 @@ This repository contains the milestone project for web development, showcasing f
 5. **[Fifth Website]**
    - [Link to Fifth Website Replica](#)
    - Description: A replica of the [Fifth Website] focusing on [brief description].
+   - ![SCR-20240330-mbbv](https://github.com/sabha-mushtaq/milestone-projects-repository/assets/138353007/063b0c1d-e0ff-49a6-810d-f10776ee53f7)
 
 ## Technologies Used
 
