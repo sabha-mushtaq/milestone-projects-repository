@@ -23,9 +23,10 @@ This repository contains the milestone project for web development, showcasing f
    - The Bike Landing Page is a sleek and modern website designed to showcase the latest models of bicycles. With a clean and intuitive user interface, this website provides visitors with an immersive experience, highlighting the features and specifications of various bike models.
    - ![SCR-20240131-ofpd](https://github.com/sabha-mushtaq/milestone-projects-repository/assets/138353007/780dfcd8-99f9-45d4-99e6-e80868a3618b)
 
-4. **[Fourth Website]**
-   - [Link to Fourth Website Replica](#)
-   - Description: A replica of the [Fourth Website] emphasizing [brief description].
+4. **[NFT LANDING PAGE]**
+   - [http://127.0.0.1:5500/src/index.html](#)
+   - Description: The NFT Landing Page Replica is a visually captivating website that showcases the world of non-fungible tokens (NFTs) through stunning color gradients and modern design elements. Utilizing the power of Tailwind CSS, this replica features a seamless blend of aesthetics and functionality, offering an immersive experience for visitors interested in the NFT space.
+   - 
 
 5. **[Fifth Website]**
    - [Link to Fifth Website Replica](#)
