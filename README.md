@@ -33,7 +33,7 @@ This repository contains the milestone project for web development, showcasing f
    - Description: Pixelab Lab is a website designed and developed using HTML, CSS, and Tailwind CSS. Tailwind CSS is a utility-first CSS framework that allows for rapid development and easy customization.
 
 The website showcases Pixelab Lab's services in digital design, offering a range of solutions from graphic design to web development. Its clean and modern design, combined with the use of Tailwind CSS for styling, ensures a visually appealing and responsive layout across various devices.
-   
+   -![SCR-20240404-tded](https://github.com/sabha-mushtaq/milestone-projects-repository/assets/138353007/78fb16c8-6d37-4eb4-8564-c6ff5fa49cff)
 
 ## Technologies Used
 
